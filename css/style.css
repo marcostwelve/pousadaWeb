@@ -252,3 +252,10 @@ img {
         font-size: 13px;
     }
 }
+
+@media (max-width: 450px) {
+    
+   .link-topo  {
+    text-transform: none;
+   }
+}
