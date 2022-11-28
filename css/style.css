@@ -257,5 +257,6 @@ img {
     
    .link-topo  {
     text-transform: none;
+    padding: 2px;
    }
 }
